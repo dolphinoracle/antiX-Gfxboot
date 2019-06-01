@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: antix-development\n"
-"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"PO-Revision-Date: 2019-05-26 00:15+0000\n"
 "Last-Translator: James Bowlin <BitJam@gmail.com>\n"
 "Language-Team: Icelandic (http://www.transifex.com/anticapitalista/antix-development/language/is/)\n"
 "MIME-Version: 1.0\n"
@@ -18,12 +18,12 @@ msgstr ""
 #. ok button label
 #. txt_ok
 msgid "OK"
-msgstr ""
+msgstr "Í lagi"
 
 #. cancel button label
 #. txt_cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Hætta við"
 
 #. txt_boot_harddisk
 msgid "Boot from Hard Disk"
@@ -104,7 +104,7 @@ msgstr ""
 #. Title of Options menu.  Please keep it short.
 #. txt_options
 msgid "Options"
-msgstr ""
+msgstr "Valkostir"
 
 #. Title of Time Zone menu.
 #. txt_timezone
@@ -163,4 +163,8 @@ msgstr ""
 
 #. txt_vbox_video
 msgid "Virtual Box Video"
+msgstr ""
+
+#. txt_to_grub
+msgid "Switch to Grub Bootloader"
 msgstr ""
